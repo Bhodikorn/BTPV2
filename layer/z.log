@@ -1,0 +1,18 @@
+2023-04-26 11:46:10 | IP: ::1 | Message: admin | SQL Injection detected
+2023-04-26 11:54:44 | IP: ::1 | Message: po-- | SQL Injection detected
+2023-04-26 11:54:54 | IP: ::1 | Message: po -- | SQL Injection detected
+2023-04-26 11:54:56 | IP: ::1 | Message: po-- | SQL Injection detected
+2023-04-27 13:10:36 | IP: 127.0.0.1 | Message:  UNION ALL VALUES (1,2,3)-- | SQL Injection detected
+2023-04-27 18:07:15 | IP: 127.0.0.1 | Message:  UNION ALL VALUES (1,2,3)-- | SQL Injection detected
+2023-04-27 18:08:40 | IP: 127.0.0.1 | Message: EMezaeNR | SQL Injection detected
+2023-04-27 18:08:42 | IP: 127.0.0.1 | Message: lfpSbzsn | SQL Injection detected
+2023-05-01 19:46:36 | IP: 127.0.0.1 | Message:  UNION ALL VALUES (1,2,3)-- | SQL Injection detected
+2023-05-01 19:46:42 | IP: 127.0.0.1 | Message:  UNION ALL VALUES (1,2,3)-- | SQL Injection detected
+2023-05-01 19:46:47 | IP: 127.0.0.1 | Message:  UNION ALL VALUES (1,2,3)-- | SQL Injection detected
+2023-05-01 19:46:52 | IP: 127.0.0.1 | Message:  UNION ALL VALUES (1,2,3)-- | SQL Injection detected
+2023-05-01 19:46:58 | IP: 127.0.0.1 | Message:  UNION ALL VALUES (1,2,3)-- | SQL Injection detected
+2023-05-01 19:48:05 | IP: 127.0.0.1 | Message:  UNION ALL VALUES (1,2,3)-- | SQL Injection detected
+2023-05-01 19:48:11 | IP: 127.0.0.1 | Message:  UNION ALL VALUES (1,2,3)-- | SQL Injection detected
+2023-05-01 19:48:17 | IP: 127.0.0.1 | Message:  UNION ALL VALUES (1,2,3)-- | SQL Injection detected
+2023-05-01 19:48:23 | IP: 127.0.0.1 | Message:  UNION ALL VALUES (1,2,3)-- | SQL Injection detected
+2023-05-01 19:48:28 | IP: 127.0.0.1 | Message:  UNION ALL VALUES (1,2,3)-- | SQL Injection detected
