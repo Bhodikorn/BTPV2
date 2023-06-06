@@ -1,10 +1,10 @@
 <?php
-$servername = "pos-system.mysql.database.azure.com";
-$username = "bhodi";
-$password = "Treebangbang*007";
+$servername = "localhost";
+$username = "root";
+$password = "";
 $dbname = "pos_system";
 
-
+// Create connection
 $mysqli = new mysqli($servername, $username, $password, $dbname);
 
 // Check connection
