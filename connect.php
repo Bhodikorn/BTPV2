@@ -3,7 +3,7 @@ $servername = "bho.mysql.database.azure.com";
 $username = "bhodi";
 $password = "Treebangbang*007";
 $dbname = "pos_system";
-
+//wtf
 // Create connection
 $mysqli = new mysqli($servername, $username, $password, $dbname);
 
