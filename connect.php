@@ -1,5 +1,5 @@
 <?php
-$servername = "bho.mysql.database.azure.com";
+$servername = "pos-system.mysql.database.azure.com";
 $username = "bhodi";
 $password = "Treebangbang*007";
 $dbname = "pos_system";
